@@ -77,5 +77,4 @@ spec:
       storageClassName: "roboshop-ebs"
       resources:
         requests:
-          storage: 2Gi
-          
+          storage: 2Gi     
